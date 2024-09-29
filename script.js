@@ -49,7 +49,6 @@ document.addEventListener("DOMContentLoaded", () => {
             sharhi: "Ibn Abbas ya ce: Wannan aya tana nuni da yadda Allah ya sanya rana domin mutane suyi aiki da ta.",
             hadith: "Manzon Allah (SAW) ya ce: 'Allah ya sanya dare don hutawa da ranar don aiki.' (Bukhari)"
         },
-        // Add 93 more miracles with sharhi and hadith here...
         {
             arabic: "وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ",
             hausa: "Kuma ba wanda zai yi tunani sai masu hankali.",
@@ -77,7 +76,7 @@ document.addEventListener("DOMContentLoaded", () => {
     reference: "Yunus 10:67",
     sharhi: "Ibn Kathir ya ce: Allah ya sanya rana don aiki da dare don hutawa domin alherin bayinSa.",
     hadith: "An karɓo daga Aisha (RA) cewa Manzon Allah (SAW) ya ce: 'Daren da ranar an sanya su domin bauta da amfanin mutane.' (Muslim)"
-},
+        },
 {
     arabic: "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا",
     hausa: "Kuma daga cikin ayoyinSa ne ya halitta muku mata daga gare ku.",
