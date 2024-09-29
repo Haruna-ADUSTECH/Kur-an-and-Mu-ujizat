@@ -559,7 +559,147 @@ document.addEventListener("DOMContentLoaded", () => {
     reference: "At-Talaq 65:3",
     sharhi: "Ibn Kathir ya ce: Allah yana isar wa bayinsa da suke dogara gare shi, kuma yana ba su kariya daga dukkan abokan gaba.",
     hadith: "An karɓo daga Umar bin Al-Khattab (RA) cewa Manzon Allah (SAW) ya ce: 'Duk wanda ya dogara ga Allah, zai wadace shi.' (Tirmidhi)"
-        }
+        },
+        {
+    arabic: "أَوَلَمْ يَرَوْاْ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍۢ فِى جَوِّ ٱلسَّمَآءِ",
+    hausa: "Shin ba su lura da tsuntsaye da aka daidaita su ba a cikin sararin sama?",
+    reference: "An-Nahl 16:79",
+    sharhi: "Ibn Kathir ya ce: Allah ya yi wa tsuntsaye iko su tashi cikin sararin sama ba tare da faɗuwa ba, abin mamaki ne ga wanda ke nazari.",
+    hadith: "An karɓo daga Abu Huraira (RA) cewa Manzon Allah (SAW) ya ce: 'Allah yana rike tsuntsaye a sama da ikonsa.' (Bukhari)"
+},
+{
+    arabic: "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+    hausa: "Hakika, tare da kunci akwai sauƙi.",
+    reference: "Ash-Sharh 94:6",
+    sharhi: "Ibn Kathir ya ce: Allah yana tabbatar wa da bayinsa cewa kowane kunci yana tare da sauƙi daga Allah, bayan gwaji akwai sauƙin da ya zo daga rahamarsa.",
+    hadith: "An karɓo daga Ibn Abbas (RA) cewa Manzon Allah (SAW) ya ce: 'Bayan kowanne wahala, Allah yana kawo sauƙi.' (Muslim)"
+},
+{
+    arabic: "وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا",
+    hausa: "Kuma ba wata ganye da ke faɗuwa ba face yana sane da ita.",
+    reference: "Al-An'am 6:59",
+    sharhi: "Ibn Kathir ya ce: Wannan aya tana nuna cewa ilimin Allah yana game da komai, komai ƙanƙantarsa ko girmansa.",
+    hadith: "An karɓo daga Jabir (RA) cewa Manzon Allah (SAW) ya ce: 'Komai yana cikin ilimin Allah.' (Bukhari)"
+},
+{
+    arabic: "هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ",
+    hausa: "Shi ne wanda yake rayawa kuma yake kashewa.",
+    reference: "Ghāfir 40:68",
+    sharhi: "Ibn Kathir ya ce: Allah yana da ikon rayawa da kashewa, babu wanda zai iya tsawaita rai ko hanzarta mutuwa ba tare da nufin Allah ba.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Rayuwa da mutuwa suna cikin hannun Allah.' (Muslim)"
+},
+{
+    arabic: "فَسُبْحَـٰنَ ٱلَّذِى بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍۢ",
+    hausa: "To, tsarki ya tabbata ga wanda yake hannunsa mulkin dukan komai.",
+    reference: "Yā Sīn 36:83",
+    sharhi: "Ibn Kathir ya ce: Allah yana rike da dukkan mulki, komai yana karkashin ikonSa, tsarki da girma sun tabbata gare Shi.",
+    hadith: "An karɓo daga Ibn Abbas (RA) cewa Manzon Allah (SAW) ya ce: 'Dukkan mulkin sammai da ƙasa yana cikin hannun Allah.' (Tirmidhi)"
+},
+{
+    arabic: "فَإِذَا شَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
+    hausa: "To idan sama ta fashe, sai ta zama kamar fure mai launin jajaye kamar mai.",
+    reference: "Ar-Rahman 55:37",
+    sharhi: "Ibn Kathir ya ce: A ranar alƙiyama, sama za ta rushe kuma ta zama kamar furanni masu ja, wannan yana nuna tsananin ranar alƙiyama.",
+    hadith: "An karɓo daga Abu Huraira (RA) cewa Manzon Allah (SAW) ya ce: 'A ranar alƙiyama, sama za ta rushe.' (Muslim)"
+},
+{
+    arabic: "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+    hausa: "Shin ba sa lura da raƙuma yadda aka halicce su?",
+    reference: "Al-Ghashiya 88:17",
+    sharhi: "Ibn Kathir ya ce: Allah yana jawo hankalin mutane ga halittun da suke kusa da su, kamar raƙumi, wanda ya kasance daya daga cikin manyan abubuwan al'ajabi a halitta.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Duba raƙumi, za ka ga abin al'ajabi a halittarsa.' (Muslim)"
+},
+{
+    arabic: "يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌۭ فَٱسْتَمِعُوا۟ لَهُۥٓ",
+    hausa: "Ya ku mutane! An buga misali gare ku, ku saurara da kyau.",
+    reference: "Al-Hajj 22:73",
+    sharhi: "Ibn Kathir ya ce: Allah yana bayar da misali domin mutane su yi tunani da nazari kan hikimarsa da alherinSa.",
+    hadith: "An karɓo daga Abdullah bin Mas'ud (RA) cewa Manzon Allah (SAW) ya ce: 'Misalai suna kawo mana fahimtar abin da ke cikin al'amuran duniya da lahira.' (Bukhari)"
+},
+{
+    arabic: "وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ مُّبَٰرَكًۭا",
+    hausa: "Mun saukar da ruwa daga sama mai albarka.",
+    reference: "Qāf 50:9",
+    sharhi: "Ibn Kathir ya ce: Ruwan da Allah ya saukar daga sama yana kawo albarka ga ƙasa, yana rayar da duk abin da ya kasance yana buƙatar ruwa.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Ruwan sama yana zuwa tare da albarkar Allah.' (Bukhari)"
+},
+{
+    arabic: "وَإِنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ",
+    hausa: "Kuma lalle, zuwa ga Ubangijinka ne makoma ta ƙarshe.",
+    reference: "An-Najm 53:42",
+    sharhi: "Ibn Kathir ya ce: Dukkan al'amura suna komawa ga Allah a ƙarshen lamari, domin Shi ne mai hukunci mai ƙarshe a dukkan al'amura.",
+    hadith: "An karɓo daga Aisha (RA) cewa Manzon Allah (SAW) ya ce: 'Makomar kowane bawa ita ce zuwa ga Allah.' (Muslim)"
+},
+     {
+    arabic: "فَسُبْحَـٰنَ ٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا",
+    hausa: "To, tsarki ya tabbata ga wanda ya halicci ma'aurata duka.",
+    reference: "Yā Sīn 36:36",
+    sharhi: "Ibn Kathir ya ce: Allah ya halicci komai cikin ma'aurata: namiji da mace, dare da rana, fari da baƙi, kuma ya kawo daidaito a cikin halittarsa.",
+    hadith: "An karɓo daga Ibn Abbas (RA) cewa Manzon Allah (SAW) ya ce: 'Allah yana halitta cikin ma'aurata domin kowane abu ya daidaita.' (Tirmidhi)"
+},
+{
+    arabic: "وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ",
+    hausa: "Idan kuna ƙidaya ni'imomin Allah, ba za ku iya ƙidayasu ba.",
+    reference: "An-Nahl 16:18",
+    sharhi: "Ibn Kathir ya ce: Dukkan alheran da Allah ya yi wa mutane suna da yawa, ba za su iya ƙidaya su duka ba saboda yawan su da kuma tsananin alherinSa.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Duk wanda ya gode wa Allah, zai ƙara masa ni'ima.' (Bukhari)"
+},
+{
+    arabic: "وَخُلِقَ ٱلْإِنسَـٰنُ ضَعِيفًا",
+    hausa: "Kuma an halicci mutum cikin rauni.",
+    reference: "An-Nisā' 4:28",
+    sharhi: "Ibn Kathir ya ce: Allah ya san cewa mutum yana da rauni, shi ya sa ya sauƙaƙa masa cikin ibada da dokoki masu sauƙi.",
+    hadith: "An karɓo daga Aisha (RA) cewa Manzon Allah (SAW) ya ce: 'Allah ya sauƙaƙa dokokinSa saboda saninSa da raunin bayi.' (Muslim)"
+},
+{
+    arabic: "لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ",
+    hausa: "Kada ku yanke ƙauna daga rahamar Allah.",
+    reference: "Az-Zumar 39:53",
+    sharhi: "Ibn Kathir ya ce: Allah yana umartar bayinsa da kada su yanke ƙauna daga rahamarsa, ko da kuwa sun aikata manyan zunubai, domin rahamarsa ta fi girma.",
+    hadith: "An karɓo daga Abu Huraira (RA) cewa Manzon Allah (SAW) ya ce: 'Rahamar Allah tana fi girma da fushinsa.' (Bukhari)"
+},
+{
+    arabic: "وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+    hausa: "Kuma Allah ya isa ya zama wakili.",
+    reference: "An-Nisā' 4:81",
+    sharhi: "Ibn Kathir ya ce: Allah yana ƙarfafa wa bayinsa gwiwa su dogara gare Shi a dukkan al'amuransu, domin Shi ne mafi kyau a matsayin mai kula.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Duk wanda ya dogara ga Allah, Allah zai isar masa.' (Tirmidhi)"
+},
+{
+    arabic: "فَإِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ",
+    hausa: "Hakika, Allah mai ƙarfi ne, mai ƙasƙantarwa.",
+    reference: "Al-Ḥajj 22:40",
+    sharhi: "Ibn Kathir ya ce: Allah yana da iko mai girma da ƙarfin da babu wanda zai iya kayar da Shi, kuma duk wanda ya tsani gaskiya zai rasa nasara.",
+    hadith: "An karɓo daga Umar bin Al-Khattab (RA) cewa Manzon Allah (SAW) ya ce: 'Allah yana da iko da ba wanda zai iya kayar da Shi.' (Muslim)"
+},
+{
+    arabic: "وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ",
+    hausa: "Kuma Allah ne ya halicce ku da abin da kuke aikatawa.",
+    reference: "As-Saffat 37:96",
+    sharhi: "Ibn Kathir ya ce: Dukkan ayyukan bayi, ko dai su na biyayya ko sabo, duk suna karkashin ikon Allah, Shi ne mai halitta komai.",
+    hadith: "An karɓo daga Abu Huraira (RA) cewa Manzon Allah (SAW) ya ce: 'Komai yana karkashin ikon Allah.' (Bukhari)"
+},
+{
+    arabic: "إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+    hausa: "Lalle Allah yana kula da ku sosai.",
+    reference: "An-Nisā' 4:1",
+    sharhi: "Ibn Kathir ya ce: Allah yana lura da kowane bawa da aikinsa, babu wani abu da zai ɓuya daga gare Shi.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Dukkan ayyukan bawa suna cikin kulawar Allah.' (Muslim)"
+},
+{
+    arabic: "إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+    hausa: "Lalle ne, Mu ne muka saukar da Alƙur'ani, kuma hakika Mu ne masu kiyaye shi.",
+    reference: "Al-Ḥijr 15:9",
+    sharhi: "Ibn Kathir ya ce: Allah yana tabbatar da cewa Alƙur'ani ba zai taba ɓacewa ko lalacewa ba, domin Shi ne mai kiyaye shi.",
+    hadith: "An karɓo daga Abu Sa'id Al-Khudri (RA) cewa Manzon Allah (SAW) ya ce: 'Alƙur'ani zai kasance a tsare har zuwa ranar alƙiyama.' (Tirmidhi)"
+},
+{
+    arabic: "فَإِنَّكَ بِأَعْيُنِنَا",
+    hausa: "Hakika kai kuna karkashin kulawarMu.",
+    reference: "Aṭ-Ṭūr 52:48",
+    sharhi: "Ibn Kathir ya ce: Wannan kalma tana tabbatar da cewa Allah yana kulawa da ManzonSa da dukkan bayin da suka gaskata da Shi.",
+    hadith: "An karɓo daga Anas bin Malik (RA) cewa Manzon Allah (SAW) ya ce: 'Allah yana kula da duk wanda ya dogara ga Shi.' (Muslim)"
+}   
         
     ];
 
