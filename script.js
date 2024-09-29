@@ -70,7 +70,77 @@ document.addEventListener("DOMContentLoaded", () => {
             reference: "Suratul Baqarah 2:255 (Ayat al-Kursi)",
             sharhi: "Ibn Kathir ya ce: Wannan aya tana nuni da cewa dukkan ilimi yana tare da Allah, kuma yana bayar da ilimi ga wanda ya so daga bayinSa.",
             hadith: "An ruwaito daga Abu Huraira (RA) cewa Manzon Allah (SAW) ya ce: 'Wanda ya karanta Ayat al-Kursi bayan kowanne sallah, ba za a hana shi shiga Aljanna ba.' (An-Nasa'i)"
-        }
+        },
+        {
+    arabic: "هُوَ الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا",
+    hausa: "Shi ne ya sanya dare don ku huta a cikinsa, da kuma rana mai haske don aiki.",
+    reference: "Yunus 10:67",
+    sharhi: "Ibn Kathir ya ce: Allah ya sanya rana don aiki da dare don hutawa domin alherin bayinSa.",
+    hadith: "An karɓo daga Aisha (RA) cewa Manzon Allah (SAW) ya ce: 'Daren da ranar an sanya su domin bauta da amfanin mutane.' (Muslim)"
+},
+{
+    arabic: "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا",
+    hausa: "Kuma daga cikin ayoyinSa ne ya halitta muku mata daga gare ku.",
+    reference: "Ar-Rum 30:21",
+    sharhi: "Ibn Abbas ya ce: Wannan aya tana nuna kyautar aure daga Allah don samar da jin daɗi da nutsuwa tsakanin ma'aurata.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Mafi alherin bayin Allah su ne waɗanda suka fi kyautata wa iyalinsu.' (Tirmidhi)"
+},
+{
+    arabic: "وَأَنزَلَ لَكُم مِّنَ الْأَنْعَامِ ثَمَانِيَةَ أَزْوَاجٍ",
+    hausa: "Ya saukar muku da nau'in dabbobi takwas don amfani.",
+    reference: "Az-Zumar 39:6",
+    sharhi: "Ibn Kathir ya ce: Allah ya saukar da ni'imomin dabbobi don taimakawa mutane a rayuwarsu ta yau da kullum.",
+    hadith: "An karɓo daga Abu Huraira (RA) cewa Manzon Allah (SAW) ya ce: 'Allah ya halitta dabbobi don amfanin bayinSa.' (Bukhari)"
+},
+{
+    arabic: "اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ قُوَّةً",
+    hausa: "Allah ne ya halicce ku cikin raunana, sannan ya ba ku ƙarfi bayan raunana.",
+    reference: "Ar-Rum 30:54",
+    sharhi: "Ibn Kathir ya ce: Wannan aya tana nuni da yadda Allah yake bayar da ƙarfi bayan raunana a dukkan matakan rayuwa.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Bayan rauni yana zuwa ƙarfi, kuma Allah yana karfafa bayinsa a dukkan matakan rayuwarsu.' (Ahmad)"
+},
+{
+    arabic: "أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ ثَمَرَاتٍ مُّخْتَلِفًا أَلْوَانُهَا",
+    hausa: "Shin ba ka ga yadda Allah ya saukar da ruwa daga sama, sai muka fitar da ‘ya’ya masu launuka daban-daban?",
+    reference: "Az-Zumar 39:21",
+    sharhi: "Ibn Abbas ya ce: Wannan aya tana nuni da ikon Allah wajen fitar da ‘ya’ya masu launuka daban-daban daga ruwan sama.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Allah yana saukar da ruwa don rayuwa da alheri ga bayinSa.' (Bukhari)"
+},
+{
+    arabic: "وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا وَيَنشُرُ رَحْمَتَهُ",
+    hausa: "Shi ne yake saukar da ruwan sama bayan sun yi tsammanin ba zai zo ba, kuma yana watsa rahamarsa.",
+    reference: "Ash-Shura 42:28",
+    sharhi: "Ibn Kathir ya ce: Allah yana saukar da rahamarsa ta hanyar ruwa don amfanin bayinsa bayan sun yi tsammanin ba zai sauka ba.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Ruwa daga sama yana daga cikin rahamar Allah ga bayinsa.' (Muslim)"
+},
+{
+    arabic: "فَإِذَا نُفِخَ فِي الصُّورِ فَصَعِقَ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ",
+    hausa: "To idan aka busa ƙaho, duk wanda ke cikin sammai da ƙasa zai fāɗi matattu.",
+    reference: "Az-Zumar 39:68",
+    sharhi: "Ibn Kathir ya ce: Wannan aya tana nuni da ranar ƙarshe da yadda ƙaho zai busa kuma dukan al'umma za su mutu.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Busawar ƙaho za ta kasance rana mai girma domin alherin bayin Allah.' (Bukhari)"
+},
+{
+    arabic: "وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَّهَا",
+    hausa: "Rana tana tafiya zuwa wurin da aka ƙaddara mata.",
+    reference: "Yasin 36:38",
+    sharhi: "Ibn Kathir ya ce: Wannan aya tana nuni da tafiyar rana wadda Allah ya ƙaddara domin amfanin duniya.",
+    hadith: "An karɓo daga Abu Dharr (RA) cewa Manzon Allah (SAW) ya ce: 'Rana tana tafiya zuwa wurin da aka ƙaddara mata.' (Bukhari)"
+},
+{
+    arabic: "وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ",
+    hausa: "Kuma mun sanya ruwa ya zama asalin kowane abu mai rai.",
+    reference: "Al-Anbiya 21:30",
+    sharhi: "Ibn Kathir ya ce: Wannan aya tana nuni da cewa ruwan shi ne tushen rayuwa kuma Allah ya sanya shi don dukkan halitta.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Ruwa yana daga cikin mafi girman ni'imomi da Allah ya saukar don rayuwa.' (Muslim)"
+},
+{
+    arabic: "يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ",
+    hausa: "Yana sanya dare ya shiga cikin rana, kuma yana sanya rana ta shiga cikin dare.",
+    reference: "Al-Hadid 57:6",
+    sharhi: "Ibn Kathir ya ce: Wannan aya tana nuni da ikon Allah wajen sanya dare da rana suyi juyi a cikin juna.",
+    hadith: "Manzon Allah (SAW) ya ce: 'Allah yana mulkin dare da rana, yana sanya su suyi aiki da juna.' (Bukhari)"
+}
     ];
 
     const miracleList = document.getElementById("miracleList");
