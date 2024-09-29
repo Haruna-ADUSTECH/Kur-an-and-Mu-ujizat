@@ -1,0 +1,148 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #0275d8;
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 20px;
+    animation: fadeInDown 2s ease;
+}
+
+p {
+    color: #333;
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 40px;
+}
+
+#searchBar {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 30px;
+    font-size: 1.1em;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+}
+
+#searchBar:focus {
+    border-color: #0275d8;
+}
+
+ul.miracle-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.miracle-list li {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.miracle-list li:hover {
+    transform: translateY(-5px);
+}
+
+.arabic {
+    font-size: 1.5em;
+    color: #555;
+    direction: rtl;
+    text-align: right;
+}
+
+.hausa {
+    font-size: 1.2em;
+    color: #333;
+    margin-top: 10px;
+}
+
+.reference, .sharhi, .hadith {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #777;
+}
+
+.sharhi strong, .hadith strong {
+    color: #333;
+}
+
+/* Animation */
+@keyframes fadeInDown {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    p {
+        font-size: 1em;
+    }
+
+    .arabic {
+        font-size: 1.3em;
+    }
+
+    .hausa {
+        font-size: 1em;
+    }
+
+    .reference, .hadith, .sharhi {
+        font-size: 0.9em;
+    }
+
+    li {
+        padding: 10px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    h1 {
+        font-size: 1.8em;
+    }
+
+    p {
+        font-size: 0.9em;
+    }
+
+    .arabic {
+        font-size: 1.1em;
+    }
+
+    .hausa {
+        font-size: 0.9em;
+    }
+
+    .reference, .hadith, .sharhi {
+        font-size: 0.8em;
+    }
+  }
